@@ -1,4 +1,4 @@
-import {CardsFilterTemplate} from '../../components/template/cardsFilter-template/CardsFilterTemplate';
+import {CardsFilterTemplate} from '../../components/template/cardsFilter-template/cardsFilterTemplate';
 import {hotelData} from '../../services/getHotelsServices';
 import styles from './page.module.css';
 export default async function Home() {
