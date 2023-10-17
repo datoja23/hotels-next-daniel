@@ -1,7 +1,7 @@
 'use client';
 import {Header} from '../../molecules/header/header';
 import {CardHotel} from '../../molecules/card/card';
-import styles from './CardsFilter.module.css';
+import styles from './cardsFilter.module.css';
 import {useState, useEffect, useContext} from 'react';
 import {hotelSize} from '../../../src/utils/helper';
 import {Alert, AlertTitle, Snackbar} from '@mui/material';
